@@ -1,0 +1,66 @@
+
+body{
+    background: gray; /*#E5E5E5;*/
+}
+.navbar img{
+    height: 45px;
+}
+.logo{
+    padding-left: 10%;
+}
+.menu{
+    padding-right: 10%;
+}
+.top-player img{
+    width: 95%;
+}
+.top-player{
+    background: #fff;
+    margin-top: 55px;
+    padding: 25px;
+    border-radius: 9px;
+}
+.latest-course{
+    margin-top: 55px;
+    background: #fff;
+    border-radius: 9px;
+    margin-bottom: 55px;
+    padding-bottom: 45px;
+}
+.latest-course  img{
+    width: 100%;
+}
+.images{
+    width: 75px;
+    height: 15px;
+}
+.images img{
+    height: 100%;
+    width: 100%;
+}
+#empt{
+    color: #AEAEAE;
+}
+.course{
+    box-shadow: 9px 9px 15px;
+    padding: 9px;
+    border-radius: 13px;
+    margin-bottom: 25px;
+}
+.course i{
+    color: #FFC014;
+    padding: 0 3px;
+    
+}
+.time{
+    background: #FFE4E8;
+    border-radius: 25px;
+    padding: 5px 15px;
+    font-size: 19px;
+    font-weight: bold;
+    color: #FF4A60;
+}
+.time i{
+    background: ;
+    color: #FF4A60;
+}
